@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+![image](https://github.com/user-attachments/assets/bf15daba-168b-4b97-acdf-f20f48cb2c70)<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -152,6 +152,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=sadique982&theme=discord&column=9&row=2&margin-w=4&margin-h=4&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
+--->
 ###
 
 <div align="right">
@@ -159,4 +160,3 @@
 </div>
 
 ###
---->
