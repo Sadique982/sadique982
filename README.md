@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bf15daba-168b-4b97-acdf-f20f48cb2c70)<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
